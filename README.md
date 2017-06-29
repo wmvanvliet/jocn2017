@@ -6,7 +6,8 @@ Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organiza
 
 ## Notebooks
 
- 1. [Exploration of possible confounding psycho-linguistic variables](confounds.ipynb)
+ 1. [Hierarchical clustering based on N400 amplitude](clustering.ipynb)
+ 2. [Exploration of possible confounding psycho-linguistic variables](confounds.ipynb)
 ## Requirements
 
 To run the notebooks, the following Python packages are required:
