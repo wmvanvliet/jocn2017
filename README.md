@@ -6,7 +6,7 @@ Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organiza
 
 ## Data
 
-The main data used for the analysis in the notebooks is stored in this repository as [`data.csv`](data.csv). In addition, some psycho-linguistic data for the stimuli is available in [`psycho-linguistic-variables.csv`](psycho-linguistic-variables.csv).
+The main data used for the analysis in the notebooks is stored in this repository as [`data.csv`](data.csv). In addition, some psycho-linguistic data for the stimuli is available in [`psycho_linguistic_variables.csv`](psycho_linguistic_variables.csv).
 
 ## Notebooks
 
