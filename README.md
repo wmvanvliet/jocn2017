@@ -4,6 +4,10 @@ Analysis code for:
 
 Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organization of semantic memory through unsupervised analysis of event-related potentials", Journal of Cognitive Neuroscience, submitted, aimed for publication in 2017.
 
+## Data
+
+The main data used for the analysis in the notebooks is stored in this repository as [`data.csv`](data.csv). In addition, some psycho-linguistic data for the stimuli is available in [`psycho-linguistic-variables.csv`](psycho-linguistic-variables.csv).
+
 ## Notebooks
 
  1. [Hierarchical clustering based on N400 amplitude](clustering.ipynb)
