@@ -8,6 +8,8 @@ Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organiza
 
 The main data used for the analysis in the notebooks is stored in this repository as [`data.csv`](data.csv). In addition, some psycho-linguistic data for the stimuli is available in [`psycho_linguistic_variables.csv`](psycho_linguistic_variables.csv).
 
+For access to the EEG data and the N400 template, please contact [Marijn van Vliet](mailto:w.m.vanvliet@gmail.com).
+
 ## Notebooks
 
  1. [Hierarchical clustering based on N400 amplitude](clustering.ipynb)
