@@ -2,7 +2,7 @@
 
 Analysis code for:
 
-Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organization of semantic memory through unsupervised analysis of event-related potentials", Journal of Cognitive Neuroscience, submitted, aimed for publication in 2017.
+Marijn van Vliet, Marc M. Van Hulle and Riitta Salmelin, "Exploring the organization of semantic memory through unsupervised analysis of event-related potentials", Journal of Cognitive Neuroscience, aimed for publication in december 2017.
 
 ## Data
 
